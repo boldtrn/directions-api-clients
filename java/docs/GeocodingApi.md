@@ -4,7 +4,7 @@ All URIs are relative to *https://graphhopper.com/api/1*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
-[**geocodeGet**](GeocodingApi.md#geocodeGet) | **GET** /geocode | Execute a Geocoding request
+[**geocodeGet**](GeocodingApi.md#geocodeGet) | **GET** geocode | Execute a Geocoding request
 
 
 <a name="geocodeGet"></a>

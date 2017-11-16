@@ -4,7 +4,7 @@ All URIs are relative to *https://graphhopper.com/api/1*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
-[**postVrp**](VrpApi.md#postVrp) | **POST** /vrp/optimize | Solves vehicle routing problems
+[**postVrp**](VrpApi.md#postVrp) | **POST** vrp/optimize | Solves vehicle routing problems
 
 
 <a name="postVrp"></a>

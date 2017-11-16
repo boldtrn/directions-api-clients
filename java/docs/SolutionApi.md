@@ -4,7 +4,7 @@ All URIs are relative to *https://graphhopper.com/api/1*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
-[**getSolution**](SolutionApi.md#getSolution) | **GET** /vrp/solution/{jobId} | Return the solution associated to the jobId
+[**getSolution**](SolutionApi.md#getSolution) | **GET** vrp/solution/{jobId} | Return the solution associated to the jobId
 
 
 <a name="getSolution"></a>

@@ -4,8 +4,8 @@ All URIs are relative to *https://graphhopper.com/api/1*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
-[**matrixGet**](MatrixApi.md#matrixGet) | **GET** /matrix | Matrix API
-[**matrixPost**](MatrixApi.md#matrixPost) | **POST** /matrix | Matrix API Post
+[**matrixGet**](MatrixApi.md#matrixGet) | **GET** matrix | Matrix API
+[**matrixPost**](MatrixApi.md#matrixPost) | **POST** matrix | Matrix API Post
 
 
 <a name="matrixGet"></a>

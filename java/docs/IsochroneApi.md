@@ -4,7 +4,7 @@ All URIs are relative to *https://graphhopper.com/api/1*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
-[**isochroneGet**](IsochroneApi.md#isochroneGet) | **GET** /isochrone | Isochrone Request
+[**isochroneGet**](IsochroneApi.md#isochroneGet) | **GET** isochrone | Isochrone Request
 
 
 <a name="isochroneGet"></a>

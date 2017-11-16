@@ -4,7 +4,7 @@ All URIs are relative to *https://graphhopper.com/api/1*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
-[**routeGet**](RoutingApi.md#routeGet) | **GET** /route | Routing Request
+[**routeGet**](RoutingApi.md#routeGet) | **GET** route | Routing Request
 
 
 <a name="routeGet"></a>

@@ -27,7 +27,7 @@ function create {
   case "$LANG" in
 	java)
 		PKG="com.graphhopper.directions.api.client"
-		CONFIG="--artifact-version $VERSION --api-package $PKG.api --invoker-package $PKG --model-package $PKG.model --artifact-id $NAME --group-id $GROUP --library okhttp-gson -DhideGenerationTimestamp=true"
+		CONFIG="--artifact-version $VERSION --api-package $PKG.api --invoker-package $PKG --model-package $PKG.model --artifact-id $NAME --group-id $GROUP --library retrofit2 -DhideGenerationTimestamp=true"
 		;;
 	ruby)
 		CONFIG="-DgemName=$NAME -DmoduelName=graphhopper_directions_api_client -DgemVersion=$VERSION"
